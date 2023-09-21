@@ -1,0 +1,4 @@
+.venv/
+.mypy_cach/
+Api_main.ipynb
+meus_dados.xlsx
